@@ -19,6 +19,6 @@ This is a simple weather application built with pure JavaScript, CSS, and HTML t
 To get started, clone this repository and install the dependencies:
 
 ```bash
-git clone https://github.com/AmirMohammedi/weather-app-react.git
-cd weather-app-react
+git clone https://github.com/AmirMohammedi/weather-app-js.git
+cd weather-app-js
 npm install
