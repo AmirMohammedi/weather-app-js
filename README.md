@@ -21,4 +21,3 @@ To get started, clone this repository and install the dependencies:
 ```bash
 git clone https://github.com/AmirMohammedi/weather-app-js.git
 cd weather-app-js
-npm install
