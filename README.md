@@ -1,6 +1,6 @@
-# Weather App (React)
+# Weather App 
 
-This is a simple weather application built with React that allows users to search for the current weather of any city. The app fetches real-time weather data using the [OpenWeatherMap API](https://openweathermap.org/api) and displays the city's weather details, including temperature, humidity, and wind speed.
+This is a simple weather application built with pure JavaScript, CSS, and HTML that allows users to search for the current weather of any city. The app fetches real-time weather data using the [OpenWeatherMap API](https://openweathermap.org/api) and displays the city's weather details, including temperature, humidity, and wind speed.
 
 ## Features
 
@@ -10,7 +10,7 @@ This is a simple weather application built with React that allows users to searc
 
 ## Technologies Used
 
-- **React**: JavaScript library for building user interfaces.
+- **Vanilla JavaScript**: For building the app's functionality.
 - **OpenWeatherMap API**: Provides real-time weather data.
 - **CSS**: Used to style the app.
 
